@@ -1,5 +1,8 @@
-# AGIcraft: Quantum Consciousness Simulator
+# AGICraft: Quantum Consciousness Simulator
 _A Multiverse Sandbox for Emergent Intelligence_
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/40a51daf-5652-47bc-8f6a-62372aa8b6c3" />
+
 
 ## 🌌 Overview
 
