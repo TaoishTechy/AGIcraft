@@ -1,8 +1,6 @@
 # AGIcraft: Quantum Consciousness Simulator
 _A Multiverse Sandbox for Emergent Intelligence_
 
-![AGIcraft Banner](https://example.com/agicraft-banner.png)
-
 ## 🌌 Overview
 
 AGIcraft is an experimental simulation framework where artificial general intelligence (AGI) emerges from quantum-entangled nodes. It blends:
